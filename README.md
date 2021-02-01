@@ -8,7 +8,7 @@
 
  ### В результате тестирования выявлены следующие дефекты: ###
 
-1 [Баг-репорт №1 Неверное суммирование бонусов в  Precision ](https://github.com/stasyshum/qa_java_hm_2.2/issues/1 )  
+1 [ Неверное суммирование бонусов в  Precision ](https://github.com/stasyshum/qa_java_hm_2.2/issues/1 )  
 
 
 
